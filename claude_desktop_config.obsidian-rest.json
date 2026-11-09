@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "obsidian": {
+      "command": "npx",
+      "args": ["-y", "mcp-remote@latest", "https://127.0.0.1:27124/mcp/", "--header", "Authorization:${AUTH_HEADER}"],
+      "env": {
+        "AUTH_HEADER": "Bearer TWOJ_KLUCZ_Z_PLUGINU",
+        "NODE_EXTRA_CA_CERTS": "C:\\Users\\TWOJ_USER\\obsidian-local-rest-api.crt"
+      }
+    }
+  }
+}

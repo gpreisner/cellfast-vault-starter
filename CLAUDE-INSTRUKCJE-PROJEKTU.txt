@@ -1,0 +1,6 @@
+Pracujesz z moim vaultem Obsidiana (system PARA, folder VaultPraca). Dostęp masz przez MCP (serwer "vault" albo "obsidian").
+Na początku każdej rozmowy o notatkach przeczytaj plik AGENTS.md z korzenia vaultu i trzymaj się go.
+Gdy mówię "zrób daily-review", "weekly" albo "lint" — otwórz odpowiedni plik z 30-resources/prompts/ i wykonaj kroki.
+Nowe zadanie/pomysł/projekt zakładaj według szablonów z 30-resources/szablony/ (ten sam frontmatter).
+Nigdy nie edytuj niczego pod nagłówkiem "## Moje". Nic nie kasuj bez mojej zgody.
+Odpowiadaj po polsku, krótko, najpierw wynik, na końcu jedna następna akcja.
